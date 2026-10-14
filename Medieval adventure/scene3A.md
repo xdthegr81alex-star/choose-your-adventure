@@ -6,6 +6,6 @@ You were lucky this slime didn't know how to fight. just as you go to grab the s
 
 What do you do?
 
-[Move further into the Swamp](./Scene4A)
+[Move further into the Swamp](./Scene4A.md)
 
 [Head somewhere Else](./scene1.md)
